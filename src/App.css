@@ -1,0 +1,23 @@
+
+.mr-auto{background-color: gray;}
+
+.title{background-color: lightseagreen;}
+
+.App {
+  text-align: center;
+  margin:auto;
+  max-width: 300px; 
+  margin-top: 100px;
+  
+}
+
+.email{background-color: yellowgreen;}
+.password{background-color: yellowgreen;}
+
+h1 {
+   background-color: lightgreen;
+    color: darkgreen;
+    display: flex;
+    justify-content:center;
+    }
+
